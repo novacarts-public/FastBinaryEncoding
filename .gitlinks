@@ -1,8 +1,8 @@
 # Modules
-Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git devel
+Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v3.7.1
 cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git main
-CppBenchmark modules/CppBenchmark https://github.com/chronoxor/CppBenchmark.git master
-CppCommon modules/CppCommon https://github.com/chronoxor/CppCommon.git master
+CppBenchmark modules/CppBenchmark https://github.com/novacarts-public/CppBenchmark.git nc1.0.4.0
+CppCommon modules/CppCommon https://github.com/novacarts-public/CppCommon.git nc1.0.4.0
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
 
 # Scripts
